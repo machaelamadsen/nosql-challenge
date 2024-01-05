@@ -1,1 +1,1 @@
-# nosql-challenge
+In this assignment I am using data from the UK Food Standards Agency to help editors of a food magazine determine where to focus future articles. In part one I created the database and loaded in the data. In part two I updated the database to include a new restaurant, remove any locations in Dover, and update the existing data. In part three I explored and analyzed the data. This section mainly examines the hygiene scores and rating. I used PyMongo and Pandas in this assignment.
